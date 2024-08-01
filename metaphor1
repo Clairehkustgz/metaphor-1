@@ -1,0 +1,13 @@
+# Greenhouse Effect Diagram
+
+```mermaid
+graph TD
+    A[Sun] --> B[Shortwave Radiation Reaches Earth]
+    B --> C[Earth's Surface Absorbs and Heats Up]
+    C --> D[Earth Emits Longwave Infrared Radiation]
+    D --> E[Greenhouse Gases Absorb Infrared Radiation]
+    E --> F[Greenhouse Gases Re-radiate Heat in All Directions]
+    F --> G[Heat Trapped in Atmosphere]
+    G --> H[Earth's Temperature Increases]
+    F --> I[Heat Escapes to Space]
+
